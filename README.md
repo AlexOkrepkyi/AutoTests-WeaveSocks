@@ -36,6 +36,7 @@ Below is a step-by-step process that I followed to make this work:)
 * Install Jenkins via Docker on the AWS:
   * Install Jenkins within Docker - https://jenkins.io/doc/book/installing/#setup-wizard
   * Run Jenkins in Docker - https://hub.docker.com/_/jenkins/
+  * Make your first Job, which is hooked to the Github repository and is triggered by every commit - https://www.youtube.com/watch?v=Z3S2gMBUkBo
 * Create slave(s)/node(s) - 
 
 
