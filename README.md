@@ -1,4 +1,5 @@
-**P.S. TO BE UPDATED!**
+**P.S. STILL TO BE UPDATED!**
+--
 
 Home automation testing project based on the Weave Socks project - https://microservices-demo.github.io/. Both API and UI domains are included.
 
@@ -19,8 +20,8 @@ Home automation testing project based on the Weave Socks project - https://micro
 * master Jenkins triggers its slaves --> 
 * Selenoid?
 
-Below is a step-by-step process that I followed to make this work:)
-
+Below is an almost step-by-step process that I followed to make this work:)
+--
 **1. GET THE PROJECT:**
 
 * Clone or download it from - https://microservices-demo.github.io/.
@@ -40,9 +41,9 @@ Below is a step-by-step process that I followed to make this work:)
 * Create slave(s)/node(s) - 
 
 
----
-**POSSIBLE ISSUES:**
 
+**POSSIBLE ISSUES:**
+--
 * Currently known issues with "microservices-demo" project:
   * by default has total 4 user addresses being added;
   * doesn't add new addresses;
