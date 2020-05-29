@@ -59,3 +59,4 @@ Below is an almost step-by-step process that I followed to make this work:)
 * Other possible issues
 
    * Terminal freezes after short inactivity while SSH connection - sudo vi /etc/ssh/sshd_config - https://unix.stackexchange.com/questions/200239/how-can-i-keep-my-ssh-sessions-from-freezing or https://superuser.com/questions/98562/way-to-avoid-ssh-connection-timeout-freezing-of-gnome-terminal
+
